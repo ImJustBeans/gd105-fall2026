@@ -4,8 +4,8 @@
 */
 size(500, 500);
 background(#49FAB2);
-var BG = color(#49FAB2);
-var FG = color(#FFFFFF);
+color BG=(#49FAB2);
+color FG=(#FFFFFF);
 
 //layer 1
 noStroke();
